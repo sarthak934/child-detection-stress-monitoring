@@ -1,4 +1,4 @@
-# Child Detection & Stress Posture Monitoring
+# Child Detection & CLoud Deployment
 
 A real-time computer vision system that detects people in video streams, identifies children using pose-based body proportion analysis, flags stress-like postures (hands on head), stores detection events historically using Firebase, and visualizes results via a Flask dashboard.
 
